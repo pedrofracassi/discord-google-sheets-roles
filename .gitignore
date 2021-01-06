@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Google Service Account
+google_service_account.json
+
+# Config
+config.json
